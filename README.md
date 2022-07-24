@@ -1,4 +1,4 @@
-# IS-Project-2
+# ETL Project
 
 ## Data sources
 - Population Growth by Country
